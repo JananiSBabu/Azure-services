@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASBQueue", "ASBQueue.csproj", "{EF264341-1C38-4E4D-BF03-2633128AAF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASBQueueReceiver", "..\ASBQueueReceiver\ASBQueueReceiver.csproj", "{CCD24642-7715-46B9-9A8B-EE9B6426533C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF264341-1C38-4E4D-BF03-2633128AAF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF264341-1C38-4E4D-BF03-2633128AAF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF264341-1C38-4E4D-BF03-2633128AAF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF264341-1C38-4E4D-BF03-2633128AAF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD24642-7715-46B9-9A8B-EE9B6426533C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD24642-7715-46B9-9A8B-EE9B6426533C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD24642-7715-46B9-9A8B-EE9B6426533C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD24642-7715-46B9-9A8B-EE9B6426533C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F5382C-42B0-4E6B-9158-F7D2130C474B}
+	EndGlobalSection
+EndGlobal
