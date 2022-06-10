@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2022-06-09T17:05:24.4497741Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2022-06-09T17:05:23.9997742Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "innovation-rg"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "0a55ad2e-7e62-4242-9e61-38bd4af87574"
+    }
+  }
+}
